@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cross-tab-top-line-generator/static/css/main.761803e6.css",
+    "main.js": "/cross-tab-top-line-generator/static/js/main.0ffc2283.js",
+    "static/js/453.cc530484.chunk.js": "/cross-tab-top-line-generator/static/js/453.cc530484.chunk.js",
+    "index.html": "/cross-tab-top-line-generator/index.html",
+    "main.761803e6.css.map": "/cross-tab-top-line-generator/static/css/main.761803e6.css.map",
+    "main.0ffc2283.js.map": "/cross-tab-top-line-generator/static/js/main.0ffc2283.js.map",
+    "453.cc530484.chunk.js.map": "/cross-tab-top-line-generator/static/js/453.cc530484.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.761803e6.css",
+    "static/js/main.0ffc2283.js"
+  ]
+}
