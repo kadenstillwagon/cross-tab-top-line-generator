@@ -1,0 +1,21 @@
+.file_upload_container {
+    margin-top: 30vh;
+    background-color: rgb(63, 63, 63);
+    justify-content: center;
+    width: fit-content;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgb(93, 93, 93) 2.5px 2.5px 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.header_text {
+    padding-top: 30px;
+    color: rgb(232, 232, 232);
+    font-weight: 450;
+    text-shadow: rgb(31, 31, 31) 2px 2px 2px;
+    font-size: 32px;
+    padding-bottom: 15px;
+}

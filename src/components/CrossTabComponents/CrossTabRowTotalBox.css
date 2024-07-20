@@ -1,0 +1,28 @@
+.cross-tab-total-box-container {
+    width: min(9vw, 120px);
+    height: min(6vw, 80px);
+    background-color: rgb(100, 100, 100);
+    color: rgb(21, 21, 21);
+    border: solid rgb(21, 21, 21);
+    text-align: center;
+    border-width: 2px 2px;
+}
+
+.cross-tab-total-box-container:hover {
+    width: min(9vw, 120px);
+    height: min(6vw, 80px);
+    background-color: rgb(21, 21, 21);
+    color: rgb(200, 200, 200);
+    border: solid rgb(200, 200, 200);
+    text-align: center;
+    border-width: 2px 2px;
+}
+
+
+.total-data-text {
+    font-size: min(1.5vw, 17px);
+    font-weight: 500;
+    padding: min(0.7vw, 12px);
+    margin-top: auto;
+    margin-bottom: auto;
+}

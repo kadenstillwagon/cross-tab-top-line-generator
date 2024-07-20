@@ -1,0 +1,5 @@
+.top-line-column-header-row-container {
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+}

@@ -1,0 +1,5 @@
+.top-line-row-container {
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+}

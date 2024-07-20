@@ -1,0 +1,18 @@
+.cross_tab_container {
+    width: fit-content;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.x-label {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    color: rgb(232, 232, 232);
+    font-weight: 650;
+    text-shadow: rgb(150, 150, 150) 1px 1px 1px;
+    font-size: min(2.8vw, 30px);
+}

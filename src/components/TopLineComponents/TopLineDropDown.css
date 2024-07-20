@@ -1,0 +1,15 @@
+.top_line_drop_down_container {
+    margin-bottom: 1.5vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -2px;
+    width: fit-content;
+    height: fit-content;
+    padding-bottom: 15px;
+}
+
+.top_line_options_box {
+    width: 14vw;
+    max-height: 120px;
+    overflow:scroll; 
+}

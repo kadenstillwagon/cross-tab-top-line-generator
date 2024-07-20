@@ -1,0 +1,26 @@
+.drop_down_menu_container {
+    margin-top: 30px;
+    background-color: rgb(48, 48, 48);
+    justify-content: center;
+    width: max(55vw, 400px);
+    height: fit-content;
+    /*max-height: min(max(12vw, 65px), 130px);*/
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgb(93, 93, 93) 1px 1px 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.drop_down_menu_header_text {
+    padding-top: 1.5vw;
+    color: rgb(232, 232, 232);
+    font-weight: 550;
+    text-shadow: rgb(31, 31, 31) 3px 3px 4px;
+    font-size: min(2.8vw, 30px);
+}
+
+.drop_down_row {
+    display: flex;
+    justify-content: space-between;
+}

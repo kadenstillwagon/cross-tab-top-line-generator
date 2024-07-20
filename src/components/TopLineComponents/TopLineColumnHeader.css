@@ -1,0 +1,19 @@
+.top-line-column-header-container {
+    width: min(9vw, 120px);
+    height: min(6vw, 80px);
+    background-color: rgb(150, 150, 150);
+    color: rgb(21, 21, 21);
+    border: solid rgb(21, 21, 21);
+    text-align: center;
+    border-width: 2px 2px;
+}
+
+.top-line-column-header-data-text {
+    font-size: min(1.5vw, 17px);
+    font-weight: 600;
+    width: fit-content;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 22%;
+}

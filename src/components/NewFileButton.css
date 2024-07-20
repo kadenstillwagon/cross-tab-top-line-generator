@@ -1,0 +1,21 @@
+.new_file_button {
+    width: fit-content;
+    height: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: rgb(232, 232, 232);
+    color: rgb(13, 13, 83);
+    font-size: max(min(1.8vw, 16px), 12px);
+    font-weight: 600;
+    padding-top: max(min(1vw, 12px), 10px);
+    padding-bottom: max(min(1vw, 12px), 10px);
+    padding-left: max(min(1vw, 15px), 12px);
+    padding-right: max(min(1vw, 15px), 12px);
+    margin-left: auto;
+    margin-right: 20px;
+    border-radius: 25px;
+    border-color: rgb(13, 13, 83);
+    border-width: 1.5px;
+    border-style: solid;
+    box-shadow: rgb(13, 13, 83) 1.5px 1.5px 3px;
+}
