@@ -18,7 +18,7 @@
     border-width: 2px 2px;
 }
 
-.data-text {
+.cross-tab-box-data-text {
     font-size: min(1.5vw, 17px);
     font-weight: 500;
     padding: min(0.7vw, 12px);
